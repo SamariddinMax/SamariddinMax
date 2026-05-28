@@ -63,7 +63,11 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 📊 GitHub Stats
 
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=250&section=header&text=Hi%20I'm%20Samariddin%20Max&fontSize=45&fontColor=ffffff)
 
+![Typing](https://readme-typing-svg.herokuapp.com?color=00C6FF&size=25&center=true&vCenter=true&width=700&lines=Python+Developer;Bot+Developer;Flask+Developer)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=150&section=footer)
 
 ---
 
