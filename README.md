@@ -56,7 +56,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 🛠️ Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,python,flask,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,python,flask,git,github,vscode" />
 </p>
 
 ---
