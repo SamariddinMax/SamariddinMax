@@ -1,24 +1,104 @@
-<h1 align="center">Здравствуйте 👋, я Самариддин</h1>
-<h3 align="center">разработчик Python из Таджикистана</h3>
+<h1 align="center">Hi 👋, I'm Samariddin</h1>
 
-сейчас 🔭 я работаю над **ботами Telegram и веб-приложениями Flask**
+<h3 align="center">
+💻 Python & Flask Developer from Tajikistan 🇹🇯
+</h3>
 
-- 🌱 сейчас учусь **Python-бэкенд-разработка и фреймворк Flask**
-
-- 🤝 Ищу помощь с **Масштабированием бэкенд-систем и улучшением UI/UX**
-
-- 👨 💻 Все мои проекты доступны по адресу [https://github.com/SamariddinMax](https://github.com/SamariddinMax)
-
-- 💬 Спросите меня о **HTML, CSS, Python и Flask**
-
-- 📫 Как со мной связаться **@programerblog**
-
-- ⚡ Забавный факт **Мне нравится превращать идеи в настоящие веб-проекты**
-
-<h3 align="left">Свяжитесь со мной:</h3>
-<p align="left">
-<a href="https://instagram.com/programerblog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programerblog" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Flask+Backend+Developer;Telegram+Bot+Creator;Always+Learning+New+Things" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" ширина="40" высота="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </п>
+---
+
+<img align="right" alt="Coding" width="350"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on  
+  **Telegram bots and Flask web applications**
+
+- 🌱 I’m currently learning  
+  **Python backend development and Flask framework**
+
+- 💬 Ask me about  
+  **HTML, CSS, Python and Flask**
+
+- ⚡ Fun fact  
+  **I enjoy turning ideas into real web projects**
+
+- 📫 Reach me at  
+  **@programerblog**
+
+- 👨‍💻 All of my projects  
+  👉 https://github.com/SamariddinMax
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/SamariddinMax">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://instagram.com/programerblog">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
+
+<a href="https://t.me/programerblog">
+<img src="https://skillicons.dev/icons?i=telegram" height="50"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,python,flask,git,github,linux,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamariddinMax&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SamariddinMax&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SamariddinMax&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<h3 align="center">
+✨ Thanks For Visiting My Profile ✨
+</h3>
